@@ -1,0 +1,31 @@
+{
+  "name": "project_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamkorczak/MEAN_Stack_with_Angular.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK",
+    "angular"
+  ],
+  "author": "Adam Korczak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamkorczak/MEAN_Stack_with_Angular/issues"
+  },
+  "homepage": "https://github.com/adamkorczak/MEAN_Stack_with_Angular#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.10.8"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.4.3"
+  }
+}
